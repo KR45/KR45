@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kr45&label=Profile%20views&color=0e75b6&style=flat" alt="kr45" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kr45_real" target="blank"><img src="https://img.shields.io/twitter/follow/kr45_real?logo=twitter&style=for-the-badge" alt="kr45_real" ></a> </p>
-<p align="right"><a href='https://www.freepik.com/vectors/attack'>Attack vector created by catalyststuff - www.freepik.com</a></p>
+<p align="right"><a href='https://www.freepik.com/vectors/attack'></a></p>
 
 - 👨‍💻 All of my projects are available at [kshitijraj.vercel.app](kshitijraj.vercel.app)
 
