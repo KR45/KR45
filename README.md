@@ -6,8 +6,6 @@
 
 
 <p align="left"> <a href="https://twitter.com/kr45_real" target="blank"><img src="https://img.shields.io/twitter/follow/kr45_real?logo=twitter&style=for-the-badge" alt="kr45_real" ></a> </p>
-<p align="right"><img src="pro.jpg" width=512 height=312></p>
-
 
 - 👨‍💻 All of my projects are available at [kshitijraj.vercel.app](kshitijraj.vercel.app)
 
