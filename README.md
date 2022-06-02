@@ -4,12 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kr45&label=Profile%20views&color=0e75b6&style=flat" alt="kr45" /> </p>
 
-<<<<<<< HEAD
-<p align="left"> <a href="https://twitter.com/kr45_real" target="blank"><img src="https://img.shields.io/twitter/follow/kr45_real?logo=twitter&style=for-the-badge" alt="kr45_real" /></a> </p>
-<p align="right"><img src="pro.jpg"></p>
-=======
+
 <p align="left"> <a href="https://twitter.com/kr45_real" target="blank"><img src="https://img.shields.io/twitter/follow/kr45_real?logo=twitter&style=for-the-badge" alt="kr45_real" ></a> </p>
->>>>>>> 31acf9988b348d5967b5c577b490b43f20e68de1
 
 - 👨‍💻 All of my projects are available at [kshitijraj.vercel.app](kshitijraj.vercel.app)
 
@@ -17,6 +13,7 @@
 
 - 📫 How to reach me **kr91323@gmail.com**
 
+<p align="right"><img src="pro.jpg"></p>
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
