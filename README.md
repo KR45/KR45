@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/kr45_real" target="blank"><img src="https://img.shields.io/twitter/follow/kr45_real?logo=twitter&style=for-the-badge" alt="kr45_real" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [kshitijraj.vercel.app](kshitijraj.dev)
+- 👨‍💻 All of my projects are available at [kshitijraj.dev](kshitijraj.dev)
 
-- 📝 I regularly write articles on [kshitijraj.vercel.app](kshitijraj.dev)
+- 📝 I regularly write articles on [kshitijraj.dev](kshitijraj.dev)
 
 - 📫 How to reach me **kr91323@gmail.com**
 
