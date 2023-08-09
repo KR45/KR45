@@ -1,0 +1,28 @@
+name: Update Current Repo
+
+on:
+  push:
+    branches:
+      - main # Change this to your default branch name
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      
+      - name: Set current repo name
+        id: set_repo_name
+        run: echo "::set-output name=repo_name::$(basename $GITHUB_REPOSITORY)"
+
+      - name: Update README
+        run: |
+          sed -i "s|<!--START_SECTION:current_repo-->.*<!--END_SECTION:current_repo-->|<!--START_SECTION:current_repo-->Current Repository: \${{ steps.set_repo_name.outputs.repo_name }}<!--END_SECTION:current_repo-->|" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "kr91323@gmail.com"
+          git config --local user.name "Kshitij Raj"
+          git commit -am "Update current repo in README" || true
+          git push
