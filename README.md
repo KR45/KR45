@@ -12,9 +12,6 @@
 <a href="https://kshitijraj.dev"><img src="https://img.shields.io/badge/kshitijraj.dev-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00ff9c" /></a>
 <a href="https://app.hackthebox.com/profile/355204"><img src="https://img.shields.io/badge/Hack_The_Box-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" /></a>
 <a href="https://linkedin.com/in/kshitij-raj-23245319a"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-<a href="https://x.com/kr45_real"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://instagram.com/kr91323"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
-<a href="mailto:kr91323@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 
 <br/><br/>
 
